@@ -48,3 +48,10 @@ Install express-myconnection module
 
 
 $npm install express-myconnection -save
+
+
+To run application 
+
+type $node app.js 
+
+open web browser   http://127.0.0.1:3000/
